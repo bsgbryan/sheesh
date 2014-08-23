@@ -1,0 +1,23 @@
+{
+  "name": "sheesh",
+  "version": "1.0.0",
+  "description": "Generating an sha1 hash from a string couldn't get any any easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bsgbryan/sheesh.git"
+  },
+  "keywords": [
+    "sha1",
+    "hash"
+  ],
+  "author": "Bryan Maynard <bsgbryan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsgbryan/sheesh/issues"
+  },
+  "homepage": "https://github.com/bsgbryan/sheesh"
+}
